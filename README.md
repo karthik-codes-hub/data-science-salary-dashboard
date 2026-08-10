@@ -4,7 +4,8 @@ An interactive **Microsoft Excel dashboard** designed to analyze salary trends a
 
 ## 📸 Dashboard Preview
 
-![Data Science Salary Dashboard](screenshots/salary-dashboard.png)
+<img width="1443" height="671" alt="image" src="https://github.com/user-attachments/assets/cae7d5f8-adb8-4188-b5ae-d9b7c1e2b14c" />
+
 
 ### 🔍 Dashboard Description
 
