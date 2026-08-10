@@ -1,7 +1,8 @@
 # 📊 Data Science Salary Dashboard
 
 An interactive **Microsoft Excel dashboard** designed to analyze salary trends and job-market data across Data Science, Data Analytics, Data Engineering, and related technology roles.
-# Final Dashboard Link : https://1drv.ms/x/c/5be62b77336324cd/IQBKHSZ_LHz_S59DarJm0QhhATj57tir8KqTjGBZZqV5mGE?e=HIdVEX
+# Final Dashboard Link : 
+https://1drv.ms/x/c/5be62b77336324cd/IQBKHSZ_LHz_S59DarJm0QhhATj57tir8KqTjGBZZqV5mGE?e=HIdVEX
 
 ## 📸 Dashboard Preview
 
